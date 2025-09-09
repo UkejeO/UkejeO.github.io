@@ -3,7 +3,7 @@ title: "Mental Health Facilities & Social Vulnerability Analysis"
 date: 2025-07-01
 tools: "Python, Pandas, SQLite, Tableau"
 description: "Analyzed correlations between social vulnerability factors and mental health facility quality metrics across the U.S."
-layout: post # Uses a post layout
+layout: default
 ---
 
 ## Overview
