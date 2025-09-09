@@ -1,12 +1,7 @@
----
-title: "Ukeje Okoronkwo"
-layout: home
----
-
 # Ukeje Okoronkwo
 **Data Analyst | Computer Science Student**
 
-Elkridge, MD | 443-713-9958 | okoronkovouk@gmail.com | [GitHub](https://github.com/UkejeQ) | [LinkedIn](https://www.linkedin.com/in/your-profile/)
+Elkridge, MD | 443-713-9958 | okoronkwouk@gmail.com | [LinkedIn](https://www.linkedin.com/in/ukeje-okoronkwo-2b37a3326/)
 
 ---
 
