@@ -3,3 +3,8 @@ email: okoronkwouk@gmail.com
 baseurl: ""
 url: "https://ukejeo.github.io"
 theme: minima
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name
