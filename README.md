@@ -38,5 +38,4 @@ Each project is contained in its own directory. Within a project folder, you wil
 I am always open to discussing data, opportunities, or potential collaborations.
 
 *   **Email:** okoronkwouk@gmail.com
-*   **LinkedIn:** [Ukeje Okoronkwo](https://www.linkedin.com/in/your-linkedin-profile/)
-*   **GitHub:** [UkejeQ](https://github.com/UkejeQ)
+*   **LinkedIn:** [Ukeje Okoronkwo]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/ukeje-okoronkwo-2b37a3326/))
