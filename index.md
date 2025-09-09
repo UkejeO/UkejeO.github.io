@@ -13,7 +13,7 @@ I am a Computer Science student at the University of Maryland, College Park, wit
 **Tools:** Python, Pandas, SQLite, Tableau  
 **Description:** Analyzed correlations between social vulnerability factors and mental health facility quality metrics across the U.S.
 
-[View Project Details &raquo;]({{ site.baseurl }}/projects/mental_health_facilities)
+[View Project Details &raquo;]({{ site.baseurl }}{% link _projects/mental_health_facilities.md %})
 ---
 
 ## Technical Skills
