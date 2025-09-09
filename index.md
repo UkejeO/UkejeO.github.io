@@ -9,7 +9,7 @@ I am a Computer Science student at the University of Maryland, College Park, wit
 ---
 ## Featured Projects
 
-### [Mental Health Facilities & Social Vulnerability Analysis]({{ site.baseurl }}/projects/mental_health_facilities.html)
+### Mental Health Facilities & Social Vulnerability Analysis
 **Tools:** Python, Pandas, SQLite, Tableau  
 **Description:** Analyzed correlations between social vulnerability factors and mental health facility quality metrics across the U.S.
 
