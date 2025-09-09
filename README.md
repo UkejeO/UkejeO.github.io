@@ -40,4 +40,3 @@ I am always open to discussing data, opportunities, or potential collaborations.
 *   **Email:** okoronkwouk@gmail.com
 *   **LinkedIn:** [Ukeje Okoronkwo](https://www.linkedin.com/in/your-linkedin-profile/)
 *   **GitHub:** [UkejeQ](https://github.com/UkejeQ)
-    *   Feel free to adjust the "Overview" or "Skills" to better match your personal style.
