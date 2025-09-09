@@ -7,12 +7,11 @@ Elkridge, MD | 443-713-9958 | okoronkwouk@gmail.com | [GitHub](https://github.co
 I am a Computer Science student at the University of Maryland, College Park, with a passion for transforming raw data into actionable insights. My skills include data wrangling, statistical analysis, machine learning, and creating compelling visualizations with Python, SQL, and Tableau.
 
 ---
-
 ## Featured Projects
 
-### Mental Health Facilities & Social Vulnerability Analysis
+### [Mental Health Facilities & Social Vulnerability Analysis]({{ site.baseurl }}/projects/mental_health_facilities.html)
 **Tools:** Python, Pandas, SQLite, Tableau  
-**Description:** Analyzed correlations between social vulnerability factors and mental health facility quality metrics across the U.S. Integrated data from CMS, CDC, and SAMHSA to create interactive visualizations showing how socioeconomic factors affect healthcare outcomes.
+**Description:** Analyzed correlations between social vulnerability factors and mental health facility quality metrics across the U.S.
 
 [View Project Details &raquo;]({{ site.baseurl }}/projects/mental_health_facilities.html)
 ---
