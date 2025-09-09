@@ -1,6 +1,6 @@
 title: Ukeje Okoronkwo's Portfolio
 email: okoronkwouk@gmail.com
-baseurl: ""
+baseurl: "" 
 url: "https://ukejeo.github.io"
 theme: minima
 
@@ -8,3 +8,10 @@ collections:
   projects:
     output: true
     permalink: /:collection/:name
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
