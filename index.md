@@ -1,8 +1,3 @@
----
-title: "Ukeje Okoronkwo"
-layout: default
----
-
 # Ukeje Okoronkwo
 **Data Analyst | Computer Science Student**
 
