@@ -23,4 +23,4 @@ This project investigates the relationship between the quality of mental health 
 
 ---
 
-View this project on the website: [Mental Health Facilities Analysis]({{ site.baseurl }}{% link _projects/mental_health.html %})
+View this project on the website: [Mental Health Facilities Analysis]({{ site.baseurl }}/projects/mental_health.html)
