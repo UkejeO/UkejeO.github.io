@@ -21,4 +21,6 @@ This project investigates the relationship between the quality of mental health 
 - Identified a positive correlation between a county's social vulnerability score and the use of restraints in its mental health facilities.
 - The analysis suggests that improving mental healthcare outcomes requires addressing underlying community-level social factors, not just facility-level policies.
 
-**View this project on the website: [Mental Health Facilities Analysis]({{ site.baseurl }}{% link _projects/mental_health.html %})**
+---
+
+View this project on the website: [Mental Health Facilities Analysis]({{ site.baseurl }}{% link _projects/mental_health.html %})**
