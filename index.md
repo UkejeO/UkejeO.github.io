@@ -15,6 +15,12 @@ I am a Computer Science student at the University of Maryland, College Park, wit
 
 [View Project Details &raquo;]({{ site.baseurl }}{% link _projects/mental_health_facilities.md %})
 
+### Housing Crisis Analysis using FHFA House Price Index Data
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels  
+**Description:** Analyzed the impact of the housing crisis on the U.S. housing market using FHFA House Price Index data, including time series analysis, regional comparisons, and predictive modeling.
+
+[View Project Details &raquo;]({{ site.baseurl }}{% link _projects/housing_crisis_analysis.md %})
+
 ---
 
 ## Technical Skills
