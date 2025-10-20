@@ -21,6 +21,12 @@ I am a Computer Science student at the University of Maryland, College Park, wit
 
 [View Project Details &raquo;]({{ site.baseurl }}{% link _projects/housing_crisis_analysis.md %})
 
+### Flood Detection and Mapping Using Sentinel-1 and CHIRPS Data
+**Tools:** Python, Rasterio, Scikit-learn, Random Forest, SMOTE, GDAL, Matplotlib  
+**Description:** Developed a machine learning pipeline for flood detection in Nigeria using Sentinel-1 SAR and CHIRPS rainfall data. Implemented data preprocessing, feature engineering, and Random Forest classification with SMOTE for class imbalance. Created probabilistic flood maps and validated results across multiple time periods.
+
+[View Project Details &raquo;]({{ site.baseurl }}{% link _projects/flood_detection_mapping.md %})
+
 ---
 
 ## Technical Skills
