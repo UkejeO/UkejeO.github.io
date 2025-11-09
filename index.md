@@ -4,7 +4,7 @@ Elkridge, MD | 443-713-9958 | okoronkwouk@gmail.com | [GitHub](https://github.co
 
 ## About Me
 
-I am a Computer Science student at the University of Maryland, College Park, with a passion for transforming raw data into actionable insights. My skills include data wrangling, statistical analysis, machine learning, and creating compelling visualizations with Python, SQL, and Tableau.
+I am a Data Analyst with a Bachelor's degree in Computer Science from the University of Maryland, College Park. I am passionate about transforming raw data into actionable insights that drive decision-making. My technical skills include data wrangling, statistical analysis, machine learning, and creating compelling visualizations using Python, SQL, and Tableau. I am now seeking to apply my analytical and problem-solving skills in a professional setting to help organizations make data-driven decisions.
 
 ---
 ## Featured Projects
